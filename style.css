@@ -39,6 +39,12 @@
     color: rgb(0,0,255);
 }
 
+iframe {
+    min-width: 300px;
+    width: 100%;
+    height: 400px;
+}
+
 /* people.md formattings */
 /* avator setup */
 .avator {
